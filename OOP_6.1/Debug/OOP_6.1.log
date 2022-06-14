@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\visual studio projects\OOP_6.1\Array.h(24,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\visual studio projects\OOP_6.1\Array.h(26,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\visual studio projects\OOP_6.1\Array.h(28,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\visual studio projects\OOP_6.1\Array.h(31,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\visual studio projects\OOP_6.1\Array.h(55,18): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\visual studio projects\OOP_6.1\Array.h(58,52): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\visual studio projects\OOP_6.1\Array.h(60,64): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  OOP_6.1.vcxproj -> D:\visual studio projects\OOP_6.1\Debug\OOP_6.1.exe
